@@ -1,0 +1,10 @@
+.navbar-nav .nav-link:hover {
+    transform: scale(1.2); /* Slight zoom effect */
+    text-decoration: underline; /* Optional: Underline effect */
+    transition: all 0.3s ease-in-out; /* Smooth transition */
+}
+  .card:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+  }
+    
