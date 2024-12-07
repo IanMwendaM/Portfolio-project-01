@@ -8,7 +8,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ---
